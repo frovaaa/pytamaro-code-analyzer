@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="354.23199"
+   height="268.56668"
+   viewBox="0 0 354.23199 268.56668"
+   sodipodi:docname="PyTamaro-Card-USE-function3.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="354.23199"
+       height="268.56668"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 229.215,174.566 c 0,13.996 -11.363,25.359 -25.36,25.359 H 61.8185 c -13.9963,0 -25.3596,-11.363 -25.3596,-25.359 V 26.8596 C 36.4589,12.8632 47.8222,1.5 61.8185,1.5 H 203.855 c 13.997,0 25.36,11.3632 25.36,25.3596 z"
+       style="fill:#fde8ec;fill-opacity:1;fill-rule:evenodd;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path2"
+       d="m 29.7089,97.4508 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path3"
+       d="M 8.1125,95.2008 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path4"
+       d="m 29.7089,158.081 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path5"
+       d="M 8.1125,155.831 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path6"
+       d="m 29.7089,36.8209 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path7"
+       d="M 8.1125,34.5709 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path8"
+       d="m 250.811,97.2933 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+    <path
+       id="path9"
+       d="m 229.215,95.0433 h 22.946"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,268.56667)" />
+  </g>
+</svg>

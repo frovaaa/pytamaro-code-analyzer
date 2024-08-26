@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="247.14799"
+   height="185.41733"
+   viewBox="0 0 247.14799 185.41733"
+   sodipodi:docname="PyTamaro-Card-empty_graphic.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         id="path7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         id="path8" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath9">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         id="path9" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="247.14799"
+       height="185.41733"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 148.902,103.547 c 0,18.774 -15.242,34.016 -34.016,34.016 H 35.5157 C 16.7419,137.563 1.5,122.321 1.5,103.547 V 35.5157 C 1.5,16.7419 16.7419,1.5 35.5157,1.5 h 79.3703 c 18.774,0 34.016,15.2419 34.016,34.0157 z"
+       style="fill:#fde8ec;fill-opacity:1;fill-rule:evenodd;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,185.41733)" />
+    <path
+       id="path2"
+       d="m 170.498,68.9469 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,185.41733)" />
+    <path
+       id="path3"
+       d="m 148.902,66.6969 h 22.946"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,185.41733)" />
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,18.355733,73.811067)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.9359999 25.146 35.891998 42.75 51.534 61.181999 71.099998 77.688004 87.552002 98.297997 108.684 113.76"
+         y="0"
+         sodipodi:role="line"
+         id="tspan3">empty_graphic</tspan></text>
+    <text
+       id="text4"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,36.463733,104.4312)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 5.184 14.994 24.804001 31.212 40.661999 50.183998 59.543999 65.862 75.653999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan4">leere_grafi</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="86.003998"
+         y="0"
+         id="tspan5">k</tspan></text>
+    <text
+       id="text5"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,28.567733,134.66747)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.3599997 15.678 25.469999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan6">grafi</tspan><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="35.82 44.243999 54.035999 62.855999 71.711998 82.188004 92.699997 99.071999"
+         y="0"
+         sodipodi:role="line"
+         id="tspan7">ca_vuota</tspan></text>
+    <g
+       id="g12">
+      <path
+         d="m 184.604,57.9423 -35.708,61.8467 h 71.415 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,85.2976,32.236683)"
+         clip-path="url(#clipPath7)"
+         id="path10" />
+      <path
+         d="M 42.168,57.9423 6.4605,119.789 h 71.4149 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,85.2976,32.236683)"
+         clip-path="url(#clipPath8)"
+         id="path11" />
+      <path
+         d="M 113.583,181.637 184.998,57.9423 H 42.168 Z"
+         style="fill:#d2071d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,85.2976,32.236683)"
+         clip-path="url(#clipPath9)"
+         id="path12" />
+    </g>
+  </g>
+</svg>

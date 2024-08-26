@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="366.83466"
+   height="94.709732"
+   viewBox="0 0 366.83466 94.709732"
+   sodipodi:docname="PyTamaro-Card-DEF-function.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="366.83466"
+       height="94.709732"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 273.626,1.50084 H 1.5"
+       style="fill:none;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,94.709733)" />
+    <path
+       id="path2"
+       d="m 12.8386,35.5166 c 0,18.7738 55.8871,34.0157 124.7244,34.0157 68.837,0 124.724,-15.2419 124.724,-34.0157 V 18.559 c 0,-4.5241 -1.797,-8.86289 -4.996,-12.06193 -3.199,-3.19903 -7.538,-4.99623 -12.062,-4.99623 H 29.9134 c -9.4302,0 -17.0748,7.64464 -17.0748,17.07476 z"
+       style="fill:#fde8ec;fill-opacity:1;fill-rule:evenodd;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,94.709733)" />
+    <path
+       id="path3"
+       d="m 12.8386,35.5166 c 0,18.7738 55.8871,34.0157 124.7244,34.0157 68.837,0 124.724,-15.2419 124.724,-34.0157 V 10.0048 c 0,0 0.001,-8.54952 8.504,-8.50396 0.117,6.2e-4 -8.504,0 -8.504,0 H 12.8386 c 0,0 -8.69648,0.00222 -8.50395,0 8.57405,-0.0986 8.50395,8.50396 8.50395,8.50396 z"
+       style="fill:#fde8ec;fill-opacity:1;fill-rule:evenodd;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,94.709733)" />
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,26.067867,65.570267)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:20px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#d51e25;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 12 23.040001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan3">def</tspan></text>
+  </g>
+</svg>

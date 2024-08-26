@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="293.75867"
+   height="270.45734"
+   viewBox="0 0 293.75867 270.45734"
+   sodipodi:docname="PyTamaro-Card-circular_sector.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029182e-5)"
+         id="path14" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029182e-5)"
+         id="path15" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029182e-5)"
+         id="path16" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="293.75867"
+       height="270.45734"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="m 183.861,164.492 c 0,20.338 -16.513,36.851 -36.851,36.851 H 73.3093 c -20.3382,0 -36.8504,-16.513 -36.8504,-36.851 V 38.3504 C 36.4589,18.0121 52.9711,1.5 73.3093,1.5 H 147.01 c 20.338,0 36.851,16.5121 36.851,36.8504 z"
+       style="fill:#fde8ec;fill-opacity:1;fill-rule:evenodd;stroke:#d51e25;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path2"
+       d="m 29.7089,163.907 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path3"
+       d="M 8.1125,161.657 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path4"
+       d="m 205.457,132.52 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path5"
+       d="m 183.861,130.27 h 22.946"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path6"
+       d="m 89.3759,50.5217 -2.25,-2.25 2.25,-2.25"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path7"
+       d="m 130.944,50.5217 2.25,-2.25 -2.25,-2.25"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path8"
+       d="M 87.1259,48.2717 H 133.194"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path9"
+       d="m 29.7089,101.545 6.75,-2.2497 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path10"
+       d="M 8.1125,99.2953 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path11"
+       d="m 29.7089,39.1831 6.75,-2.25 -6.75,-2.25 z"
+       style="fill:#13100f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <path
+       id="path12"
+       d="M 8.1125,36.9331 H 31.0589"
+       style="fill:none;stroke:#13100f;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+    <text
+       id="text12"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,66.084267,73.798667)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.6219997 13.698 20.375999 28.818001 39.113998 44.369999 54.234001 60.012001 69.372002 78.066002 88.001999 96.624001 103.248 113.76"
+         y="0"
+         sodipodi:role="line"
+         id="tspan12">circular_sector</tspan></text>
+    <text
+       id="text13"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,80.712267,104.42)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.2159996 15.624 25.434 30.51 38.556 47.916 56.321999 66.132004 75.348 81.575996 92.087997"
+         y="0"
+         sodipodi:role="line"
+         id="tspan13">kreis_sektor</tspan></text>
+    <text
+       id="text14"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,57.036267,134.656)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 8.4060001 18.216 24.714001 30.941999 41.453999 47.862 57.312 66.311996 74.916 79.991997 86.400002 94.643997 105.156 110.34 120.132 126.54"
+         y="0"
+         sodipodi:role="line"
+         id="tspan14">settore_circolare</tspan></text>
+    <g
+       id="g19">
+      <path
+         d="m 184.604,57.9423 -35.708,61.8467 h 71.415 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,132.09013,32.224683)"
+         clip-path="url(#clipPath14)"
+         id="path17" />
+      <path
+         d="M 42.168,57.9423 6.4605,119.789 h 71.4149 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,132.09013,32.224683)"
+         clip-path="url(#clipPath15)"
+         id="path18" />
+      <path
+         d="M 113.583,181.637 184.998,57.9423 H 42.168 Z"
+         style="fill:#d2071d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,132.09013,32.224683)"
+         clip-path="url(#clipPath16)"
+         id="path19" />
+    </g>
+    <path
+       id="path20"
+       d="m 134.254,53.8819 c 0,12.7806 -5.077,25.0376 -14.114,34.0748 L 86.0652,53.8819 Z"
+       style="fill:#60c332;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,270.45733)" />
+  </g>
+</svg>

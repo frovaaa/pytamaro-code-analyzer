@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="200.536"
+   height="155.18134"
+   viewBox="0 0 200.536 155.18134"
+   sodipodi:docname="PyTamaro-Card-top_right.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029181e-6)"
+         id="path3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029181e-6)"
+         id="path4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         d="M 0,0 H 226.8 V 227.04 H 0 Z"
+         transform="translate(2.5029181e-6)"
+         id="path5" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="200.536"
+       height="155.18134"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <path
+       id="path1"
+       d="M 137.563,69.4405 148.902,58.0004 137.563,46.9453 V 1.5 H 1.5 v 113.386 h 136.063 z"
+       style="fill:#ecf9fe;fill-opacity:1;fill-rule:evenodd;stroke:#3e8acf;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.3333333,0,0,-1.3333333,0,155.18133)" />
+    <text
+       id="text1"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,41.300667,73.8112)"><tspan
+         style="font-variant:normal;font-weight:700;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 6.6240001 17.136 27.521999 36.882 44.099998 49.175999 59.094002 69.480003"
+         y="0"
+         sodipodi:role="line"
+         id="tspan1">top_right</tspan></text>
+    <text
+       id="text2"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,24.788667,104.43147)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 10.512 21.204 31.014 41.562 50.922001 57.330002 67.139999 75.744003 86.292 92.790001"
+         y="0"
+         sodipodi:role="line"
+         id="tspan2">oben_rechts</tspan></text>
+    <text
+       id="text3"
+       xml:space="preserve"
+       transform="matrix(1.3333333,0,0,1.3333333,32.216667,134.66773)"><tspan
+         style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'Fira Sans';writing-mode:lr-tb;fill:#13100f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         x="0 9.6120005 14.886 21.114 31.266001 40.265999 51.029999 60.84 69.246002 75.744003 82.061996"
+         y="0"
+         sodipodi:role="line"
+         id="tspan3">alto_destra</tspan></text>
+    <g
+       id="g8">
+      <path
+         d="m 184.604,57.9423 -35.708,61.8467 h 71.415 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,77.606533,32.236683)"
+         clip-path="url(#clipPath3)"
+         id="path6" />
+      <path
+         d="M 42.168,57.9423 6.4605,119.789 h 71.4149 z"
+         style="fill:#008bcb;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,77.606533,32.236683)"
+         clip-path="url(#clipPath4)"
+         id="path7" />
+      <path
+         d="M 113.583,181.637 184.998,57.9423 H 42.168 Z"
+         style="fill:#d2071d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         transform="matrix(0.13317788,0,0,-0.13317788,77.606533,32.236683)"
+         clip-path="url(#clipPath5)"
+         id="path8" />
+    </g>
+  </g>
+</svg>
