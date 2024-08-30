@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 709 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-above" serif:id="Card/Function/above">
+        <path d="M590.772,125.113C590.772,59.926 537.848,7.003 472.661,7.003L236.441,7.003C171.254,7.003 118.331,59.926 118.331,125.113L118.331,455.821C118.331,521.008 171.254,573.932 236.441,573.932L472.661,573.932C537.848,573.932 590.772,521.008 590.772,455.821L590.772,125.113Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.22" y="168.814" width="89.764" height="7.087"/>
+            <path d="M118.331,172.357L89.984,181.806L89.984,162.908L118.331,172.357Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="0.22" y="428.656" width="89.764" height="7.087"/>
+            <path d="M118.331,432.199L89.984,441.648L89.984,422.751L118.331,432.199Z"/>
+        </g>
+        <g id="BentArrow2" serif:id="BentArrow">
+            <rect x="590.772" y="298.735" width="89.764" height="7.087"/>
+            <path d="M708.882,302.278L680.535,311.727L680.535,292.829L708.882,302.278Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,457.301,231.412)">
+        </g>
+        <text x="248.951px" y="231.412px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">abo<tspan x="378.026px 415.901px " y="231.412px 231.412px ">ve</tspan></text>
+        <g transform="matrix(75,0,0,75,452.576,327.1)">
+        </g>
+        <text x="253.676px" y="327.1px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">ueber</text>
+        <g transform="matrix(75,0,0,75,452.126,421.588)">
+        </g>
+        <text x="261.626px" y="421.588px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">sopr<tspan x="411.326px " y="421.588px ">a</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="307.207" y="7.003" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M354.497,25.31L385.183,78.459L323.811,78.459L354.497,25.31Z" style="fill:rgb(212,32,39);"/>
+                <path d="M385.171,78.459L369.828,51.884L400.514,51.884L385.171,78.459Z" style="fill:rgb(17,139,202);"/>
+                <path d="M323.811,78.459L308.468,51.884L339.154,51.884L323.811,78.459Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

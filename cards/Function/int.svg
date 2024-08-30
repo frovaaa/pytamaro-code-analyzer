@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 710 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-int" serif:id="Card/Function/int">
+        <path d="M591.535,89.884C591.535,44.254 554.489,7.207 508.858,7.207L201.772,7.207C156.141,7.207 119.094,44.254 119.094,89.884L119.094,255.239C119.094,300.87 156.141,337.916 201.772,337.916L508.858,337.916C554.489,337.916 591.535,300.87 591.535,255.239L591.535,89.884Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.984" y="169.018" width="89.764" height="7.087"/>
+            <path d="M119.094,172.562L90.748,182.01L90.748,163.113L119.094,172.562Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="591.535" y="169.018" width="89.764" height="7.087"/>
+            <path d="M709.646,172.562L681.299,182.01L681.299,163.113L709.646,172.562Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,401.74,200.387)">
+        </g>
+        <text x="308.365px" y="200.387px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">int</text>
+        <g id="Python-Logo" serif:id="Python Logo">
+            <g>
+                <path id="path1948" d="M354.893,18.628C351.971,18.641 349.18,18.89 346.725,19.325C339.492,20.603 338.178,23.277 338.178,28.21L338.178,34.725L355.272,34.725L355.272,36.896L331.763,36.896C326.796,36.896 322.446,39.882 321.085,45.562C319.516,52.073 319.446,56.136 321.085,62.934C322.3,67.995 325.202,71.6 330.17,71.6L336.047,71.6L336.047,63.791C336.047,58.149 340.928,53.172 346.725,53.172L363.798,53.172C368.551,53.172 372.345,49.259 372.345,44.486L372.345,28.21C372.345,23.578 368.437,20.098 363.798,19.325C360.862,18.836 357.815,18.614 354.893,18.628ZM345.649,23.867C347.415,23.867 348.857,25.332 348.857,27.134C348.857,28.93 347.415,30.382 345.649,30.382C343.877,30.382 342.442,28.93 342.442,27.134C342.442,25.332 343.877,23.867 345.649,23.867Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+                <path id="path1950" d="M374.476,36.896L374.476,44.486C374.476,50.371 369.487,55.324 363.798,55.324L346.725,55.324C342.048,55.324 338.178,59.327 338.178,64.01L338.178,80.286C338.178,84.919 342.207,87.643 346.725,88.972C352.136,90.563 357.324,90.851 363.798,88.972C368.101,87.727 372.345,85.219 372.345,80.286L372.345,73.772L355.272,73.772L355.272,71.6L380.891,71.6C385.859,71.6 387.71,68.135 389.438,62.934C391.222,57.58 391.147,52.431 389.438,45.562C388.21,40.617 385.865,36.896 380.891,36.896L374.476,36.896ZM364.874,78.115C366.646,78.115 368.081,79.567 368.081,81.362C368.081,83.164 366.646,84.629 364.874,84.629C363.108,84.629 361.667,83.164 361.667,81.362C361.667,79.567 363.108,78.115 364.874,78.115Z" style="fill:url(#_Linear2);fill-rule:nonzero;"/>
+            </g>
+            <rect x="308.071" y="7.207" width="94.488" height="94.488" style="fill:none;"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(39.0958,33.9615,-33.9615,39.0958,319.882,18.627)"><stop offset="0" style="stop-color:rgb(90,159,212);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(48,105,152);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-13.9611,-19.9433,19.9433,-13.9611,364.463,80.8145)"><stop offset="0" style="stop-color:rgb(255,212,59);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,232,115);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>

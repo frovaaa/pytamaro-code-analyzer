@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 834 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-empty_graphic" serif:id="Card/Function/empty_graphic">
+        <path d="M827.173,148.735C827.173,70.511 763.665,7.003 685.441,7.003L260.244,7.003C182.02,7.003 118.512,70.511 118.512,148.735L118.512,432.199C118.512,510.424 182.02,573.932 260.244,573.932L685.441,573.932C763.665,573.932 827.173,510.424 827.173,432.199L827.173,148.735Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.402" y="298.735" width="89.764" height="7.087"/>
+            <path d="M118.512,302.278L90.165,311.727L90.165,292.829L118.512,302.278Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,725.555,231.412)">
+        </g>
+        <text x="215.63px" y="231.412px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">empt<tspan x="393.755px 430.355px 470.555px 511.88px 539.33px " y="231.412px 231.412px 231.412px 231.412px 231.412px ">y_gra</tspan>phic</text>
+        <g transform="matrix(75,0,0,75,587.443,327.1)">
+        </g>
+        <g transform="matrix(75,0,0,75,610.857,327.1)">
+        </g>
+        <g transform="matrix(75,0,0,75,668.968,327.1)">
+        </g>
+        <text x="272.218px" y="327.1px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">l<tspan x="293.818px " y="327.1px ">e</tspan>er<tspan x="402.268px 441.643px 481.318px 520.318px 546.643px " y="327.1px 327.1px 327.1px 327.1px 327.1px ">e_gra</tspan>ﬁk</text>
+        <g transform="matrix(75,0,0,75,353.668,421.588)">
+        </g>
+        <g transform="matrix(75,0,0,75,377.082,421.588)">
+        </g>
+        <g transform="matrix(75,0,0,75,701.143,421.588)">
+        </g>
+        <text x="247.543px" y="421.588px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">gr<tspan x="312.868px " y="421.588px ">a</tspan>ﬁc<tspan x="431.893px 472.693px 509.443px " y="421.588px 421.588px 421.588px ">a_v</tspan>uot<tspan x="660.343px " y="421.588px ">a</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="425.598" y="7.003" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M472.888,25.31L503.574,78.459L442.202,78.459L472.888,25.31Z" style="fill:rgb(212,32,39);"/>
+                <path d="M503.563,78.459L488.22,51.884L518.906,51.884L503.563,78.459Z" style="fill:rgb(17,139,202);"/>
+                <path d="M442.202,78.459L426.859,51.884L457.545,51.884L442.202,78.459Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

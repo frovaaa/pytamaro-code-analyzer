@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1371 344" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Name-function-use1" serif:id="Card/Name/function-use1">
+        <path d="M1181.29,6.601C1200.09,6.601 1218.11,14.067 1231.4,27.357C1244.69,40.647 1252.16,58.672 1252.16,77.467C1252.16,133.258 1252.16,210.649 1252.16,266.44C1252.16,285.235 1244.69,303.26 1231.4,316.55C1218.11,329.84 1200.09,337.306 1181.29,337.306C977.711,337.306 392.746,337.306 189.165,337.306C170.371,337.306 152.345,329.84 139.055,316.55C125.765,303.26 118.299,285.235 118.299,266.44C118.299,210.649 118.299,133.258 118.299,77.467C118.299,58.672 125.765,40.647 139.055,27.357C152.345,14.067 170.371,6.601 189.165,6.601C392.746,6.601 977.711,6.601 1181.29,6.601Z" style="fill:rgb(253,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.189" y="168.408" width="89.764" height="7.087"/>
+            <path d="M118.299,171.952L89.953,181.401L89.953,162.503L118.299,171.952Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="1252.16" y="168.408" width="89.764" height="7.087"/>
+            <path d="M1370.27,171.952L1341.92,181.401L1341.92,162.503L1370.27,171.952Z"/>
+        </g>
+    </g>
+</svg>

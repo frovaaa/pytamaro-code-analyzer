@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 710 840" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-rectangle" serif:id="Card/Function/rectangle">
+        <path d="M591.535,124.995C591.535,59.808 538.612,6.884 473.425,6.884L237.205,6.884C172.018,6.884 119.094,59.808 119.094,124.995L119.094,715.546C119.094,780.733 172.018,833.656 237.205,833.656L473.425,833.656C538.612,833.656 591.535,780.733 591.535,715.546L591.535,124.995Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.984" y="168.695" width="89.764" height="7.087"/>
+            <path d="M119.094,172.239L90.748,181.688L90.748,162.79L119.094,172.239Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="591.535" y="298.617" width="89.764" height="7.087"/>
+            <path d="M709.646,302.16L681.299,311.609L681.299,292.711L709.646,302.16Z"/>
+        </g>
+        <g id="BentArrow2" serif:id="BentArrow">
+            <rect x="0.984" y="428.538" width="89.764" height="7.087"/>
+            <path d="M119.094,432.081L90.748,441.53L90.748,422.632L119.094,432.081Z"/>
+        </g>
+        <g id="BentArrow3" serif:id="BentArrow">
+            <rect x="0.984" y="688.38" width="89.764" height="7.087"/>
+            <path d="M119.094,691.924L90.748,701.373L90.748,682.475L119.094,691.924Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,514.99,231.294)">
+        </g>
+        <text x="192.79px" y="231.294px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">r<tspan x="220.615px " y="231.294px ">e</tspan>ct<tspan x="325.99px " y="231.294px ">a</tspan>ngl<tspan x="473.59px " y="231.294px ">e</tspan></text>
+        <g transform="matrix(75,0,0,75,498.115,326.982)">
+        </g>
+        <text x="209.665px" y="326.982px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">r<tspan x="236.365px " y="326.982px ">e</tspan>cht<tspan x="382.99px " y="326.982px ">e</tspan>ck</text>
+        <g transform="matrix(75,0,0,75,534.115,421.47)">
+        </g>
+        <text x="181.165px" y="421.47px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">r<tspan x="207.865px " y="421.47px ">e</tspan>tt<tspan x="302.365px " y="421.47px ">a</tspan>ng<tspan x="424.915px 468.715px 490.315px " y="421.47px 421.47px 421.47px ">olo</tspan></text>
+        <path d="M286.432,536.811L277.057,546.186L286.432,555.561" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M447.82,536.811L457.195,546.186L447.82,555.561" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M277.057,546.186L457.195,546.186" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;"/>
+        <path d="M239.641,678.129L249.016,687.504L258.391,678.129" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M239.641,583.603L249.016,574.228L258.391,583.603" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        <path d="M249.016,687.504L249.016,574.228" style="fill:none;stroke:black;stroke-width:6.25px;stroke-linecap:round;"/>
+        <rect x="272.638" y="569.808" width="188.976" height="122.115" style="fill:rgb(106,189,69);"/>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="308.071" y="6.884" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M355.36,25.192L386.046,78.341L324.674,78.341L355.36,25.192Z" style="fill:rgb(212,32,39);"/>
+                <path d="M386.035,78.341L370.692,51.766L401.378,51.766L386.035,78.341Z" style="fill:rgb(17,139,202);"/>
+                <path d="M324.674,78.341L309.331,51.766L340.017,51.766L324.674,78.341Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

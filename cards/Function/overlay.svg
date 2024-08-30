@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 710 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-overlay" serif:id="Card/Function/overlay">
+        <path d="M591.535,125.113C591.535,59.926 538.612,7.003 473.425,7.003L237.205,7.003C172.018,7.003 119.094,59.926 119.094,125.113L119.094,455.821C119.094,521.008 172.018,573.932 237.205,573.932L473.425,573.932C538.612,573.932 591.535,521.008 591.535,455.821L591.535,125.113Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.984" y="168.814" width="89.764" height="7.087"/>
+            <path d="M119.094,172.357L90.748,181.806L90.748,162.908L119.094,172.357Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="0.984" y="428.656" width="89.764" height="7.087"/>
+            <path d="M119.094,432.199L90.748,441.648L90.748,422.751L119.094,432.199Z"/>
+        </g>
+        <g id="BentArrow2" serif:id="BentArrow">
+            <rect x="591.535" y="298.735" width="89.764" height="7.087"/>
+            <path d="M709.646,302.278L681.299,311.727L681.299,292.829L709.646,302.278Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,480.527,231.412)">
+        </g>
+        <text x="227.252px" y="231.412px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">o<tspan x="270.452px 308.327px " y="231.412px 231.412px ">ve</tspan>rl<tspan x="401.702px 441.677px " y="231.412px 231.412px ">ay</tspan></text>
+        <g transform="matrix(75,0,0,75,557.29,327.1)">
+        </g>
+        <text x="150.49px" y="327.1px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">ueberl<tspan x="370.99px 411.04px 448.84px 489.715px 516.415px " y="327.1px 327.1px 327.1px 327.1px 327.1px ">agere</tspan></text>
+        <g transform="matrix(75,0,0,75,547.915,421.588)">
+        </g>
+        <text x="167.365px" y="421.588px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">so<tspan x="245.89px 282.79px 309.115px " y="421.588px 421.588px 421.588px ">vra</tspan>pponi</text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="307.971" y="7.003" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M355.261,25.31L385.946,78.459L324.575,78.459L355.261,25.31Z" style="fill:rgb(212,32,39);"/>
+                <path d="M385.935,78.459L370.592,51.884L401.278,51.884L385.935,78.459Z" style="fill:rgb(17,139,202);"/>
+                <path d="M324.575,78.459L309.232,51.884L339.918,51.884L324.575,78.459Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

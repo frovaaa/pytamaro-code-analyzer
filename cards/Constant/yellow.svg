@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 533 485" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-yellow" serif:id="Card/Constant/yellow">
+        <path d="M478.984,194.823L526.228,242.491L478.984,288.554L478.984,478.711L6.543,478.711L6.543,6.27L478.984,6.27L478.984,194.823Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,353.239,230.68)">
+        </g>
+        <text x="129.439px" y="230.68px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">y<tspan x="167.689px " y="230.68px ">e</tspan>ll<tspan x="253.264px " y="230.68px ">o</tspan>w</text>
+        <g transform="matrix(75,0,0,75,313.939,326.368)">
+        </g>
+        <text x="168.739px" y="326.368px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">g<tspan x="206.539px " y="326.368px ">e</tspan>lb</text>
+        <g transform="matrix(75,0,0,75,338.876,420.856)">
+        </g>
+        <text x="151.301px" y="420.856px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">gia<tspan x="251.501px 273.476px 295.076px " y="420.856px 420.856px 420.856px ">llo</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="195.47" y="6.27" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M242.759,24.577L273.445,77.727L212.073,77.727L242.759,24.577Z" style="fill:rgb(212,32,39);"/>
+                <path d="M273.434,77.727L258.091,51.152L288.777,51.152L273.434,77.727Z" style="fill:rgb(17,139,202);"/>
+                <path d="M212.073,77.727L196.73,51.152L227.416,51.152L212.073,77.727Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

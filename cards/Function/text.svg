@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 710 1100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-text" serif:id="Card/Function/text">
+        <path d="M591.063,124.995C591.063,59.808 538.14,6.884 472.953,6.884L236.732,6.884C171.545,6.884 118.622,59.808 118.622,124.995L118.622,975.388C118.622,1040.58 171.545,1093.5 236.732,1093.5L472.953,1093.5C538.14,1093.5 591.063,1040.58 591.063,975.388L591.063,124.995Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g transform="matrix(111.072,0,0,111.072,463.555,690.839)">
+        </g>
+        <text x="249.655px" y="690.839px" style="font-family:'Roboto-Regular', 'Roboto';font-size:111.072px;fill:rgb(106,189,69);">ABC</text>
+        <g id="BentArrow">
+            <rect x="0.512" y="168.695" width="89.764" height="7.087"/>
+            <path d="M118.622,172.239L90.276,181.688L90.276,162.79L118.622,172.239Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="591.063" y="298.617" width="89.764" height="7.087"/>
+            <path d="M709.173,302.16L680.827,311.609L680.827,292.711L709.173,302.16Z"/>
+        </g>
+        <g id="BentArrow2" serif:id="BentArrow">
+            <rect x="0.512" y="428.538" width="89.764" height="7.087"/>
+            <path d="M118.622,432.081L90.276,441.53L90.276,422.632L118.622,432.081Z"/>
+        </g>
+        <g id="BentArrow3" serif:id="BentArrow">
+            <rect x="0.512" y="686.018" width="89.764" height="7.087"/>
+            <path d="M118.622,689.562L90.276,699.01L90.276,680.113L118.622,689.562Z"/>
+        </g>
+        <g id="BentArrow4" serif:id="BentArrow">
+            <rect x="0.512" y="948.223" width="89.764" height="7.087"/>
+            <path d="M118.622,951.766L90.276,961.215L90.276,942.317L118.622,951.766Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,421.105,231.294)">
+        </g>
+        <text x="285.73px" y="231.294px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">t<tspan x="313.33px 353.755px " y="231.294px 231.294px ">ex</tspan>t</text>
+        <g transform="matrix(75,0,0,75,418.218,326.982)">
+        </g>
+        <text x="288.618px" y="326.982px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">t<tspan x="314.568px 354.768px " y="326.982px 326.982px ">ex</tspan>t</text>
+        <g transform="matrix(75,0,0,75,442.968,421.47)">
+        </g>
+        <text x="271.368px" y="421.47px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">t<tspan x="297.318px " y="421.47px ">e</tspan>st<tspan x="399.168px " y="421.47px ">o</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="307.648" y="6.884" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M354.938,25.192L385.624,78.341L324.252,78.341L354.938,25.192Z" style="fill:rgb(212,32,39);"/>
+                <path d="M385.612,78.341L370.27,51.766L400.955,51.766L385.612,78.341Z" style="fill:rgb(17,139,202);"/>
+                <path d="M324.252,78.341L308.909,51.766L339.595,51.766L324.252,78.341Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

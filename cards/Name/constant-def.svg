@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1148 297" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Name-constant-def" serif:id="Card/Name/constant-def">
+        <path d="M1141.08,290.313L7.22,290.313" style="fill:none;stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g>
+            <path d="M54.465,77.715L574.15,6.849L1093.84,77.715L1093.84,290.313L54.465,290.313L54.465,77.715Z" style="fill:rgb(232,246,254);stroke:rgb(17,139,202);stroke-width:12.5px;stroke-miterlimit:2;"/>
+            <g transform="matrix(83.3333,0,0,83.3333,1000.92,205.506)">
+            </g>
+            <text x="957.672px" y="205.506px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:83.333px;fill:rgb(17,139,202);">=</text>
+        </g>
+    </g>
+</svg>

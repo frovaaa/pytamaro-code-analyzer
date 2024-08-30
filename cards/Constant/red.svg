@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 534 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-red" serif:id="Card/Constant/red">
+        <path d="M479.661,195.162L526.906,242.829L479.661,288.892L479.661,479.05L7.22,479.05L7.22,6.609L479.661,6.609L479.661,195.162Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,299.128,231.018)">
+        </g>
+        <text x="184.903px" y="231.018px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">r<tspan x="212.728px " y="231.018px ">e</tspan>d</text>
+        <g transform="matrix(75,0,0,75,290.803,326.706)">
+        </g>
+        <text x="193.228px" y="326.706px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">r<tspan x="219.928px " y="326.706px ">o</tspan>t</text>
+        <g transform="matrix(75,0,0,75,337.566,421.195)">
+        </g>
+        <text x="153.966px" y="421.195px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">r<tspan x="180.666px 224.466px 258.741px " y="421.195px 421.195px 421.195px ">oss</tspan>o</text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="196.147" y="6.609" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M243.436,24.916L274.122,78.066L212.751,78.066L243.436,24.916Z" style="fill:rgb(212,32,39);"/>
+                <path d="M274.111,78.066L258.768,51.491L289.454,51.491L274.111,78.066Z" style="fill:rgb(17,139,202);"/>
+                <path d="M212.751,78.066L197.408,51.491L228.093,51.491L212.751,78.066Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

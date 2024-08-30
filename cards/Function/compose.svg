@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 710 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-compose" serif:id="Card/Function/compose">
+        <path d="M591.181,125.113C591.181,59.926 538.258,7.003 473.071,7.003L236.85,7.003C171.664,7.003 118.74,59.926 118.74,125.113L118.74,455.821C118.74,521.008 171.664,573.932 236.85,573.932L473.071,573.932C538.258,573.932 591.181,521.008 591.181,455.821L591.181,125.113Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g id="BentArrow">
+            <rect x="0.63" y="168.814" width="89.764" height="7.087"/>
+            <path d="M118.74,172.357L90.394,181.806L90.394,162.908L118.74,172.357Z"/>
+        </g>
+        <g id="BentArrow1" serif:id="BentArrow">
+            <rect x="0.63" y="428.656" width="89.764" height="7.087"/>
+            <path d="M118.74,432.199L90.394,441.648L90.394,422.751L118.74,432.199Z"/>
+        </g>
+        <g id="BentArrow2" serif:id="BentArrow">
+            <rect x="591.181" y="298.735" width="89.764" height="7.087"/>
+            <path d="M709.291,302.278L680.945,311.727L680.945,292.829L709.291,302.278Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,507.436,231.412)">
+        </g>
+        <text x="199.636px" y="231.412px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">c<tspan x="234.061px " y="231.412px ">o</tspan>mpose</text>
+        <g transform="matrix(75,0,0,75,546.061,327.1)">
+        </g>
+        <text x="161.011px" y="327.1px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">k<tspan x="198.736px " y="327.1px ">o</tspan>mbinier<tspan x="505.186px " y="327.1px ">e</tspan></text>
+        <g transform="matrix(75,0,0,75,505.223,421.588)">
+        </g>
+        <text x="209.348px" y="421.588px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">c<tspan x="243.698px " y="421.588px ">o</tspan>mponi</text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="307.617" y="7.003" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M354.906,25.31L385.592,78.459L324.22,78.459L354.906,25.31Z" style="fill:rgb(212,32,39);"/>
+                <path d="M385.581,78.459L370.238,51.884L400.924,51.884L385.581,78.459Z" style="fill:rgb(17,139,202);"/>
+                <path d="M324.22,78.459L308.877,51.884L339.563,51.884L324.22,78.459Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

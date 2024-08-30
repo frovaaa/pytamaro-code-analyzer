@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 533 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-blue" serif:id="Card/Constant/blue">
+        <path d="M478.984,195.162L526.228,242.829L478.984,288.892L478.984,479.05L6.543,479.05L6.543,6.609L478.984,6.609L478.984,195.162Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,317.014,231.018)">
+        </g>
+        <text x="165.664px" y="231.018px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">blue</text>
+        <g transform="matrix(75,0,0,75,316.639,326.706)">
+        </g>
+        <text x="166.039px" y="326.706px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">bl<tspan x="232.189px " y="326.706px ">a</tspan>u</text>
+        <g transform="matrix(75,0,0,75,300.176,421.195)">
+        </g>
+        <text x="190.001px" y="421.195px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">blu</text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="195.47" y="6.609" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M242.759,24.916L273.445,78.066L212.073,78.066L242.759,24.916Z" style="fill:rgb(212,32,39);"/>
+                <path d="M273.434,78.066L258.091,51.491L288.777,51.491L273.434,78.066Z" style="fill:rgb(17,139,202);"/>
+                <path d="M212.073,78.066L196.73,51.491L227.416,51.491L212.073,78.066Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

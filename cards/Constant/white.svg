@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 533 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-white" serif:id="Card/Constant/white">
+        <path d="M479.323,195.485L526.567,243.152L479.323,289.215L479.323,479.373L6.882,479.373L6.882,6.932L479.323,6.932L479.323,195.485Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,336.477,231.341)">
+        </g>
+        <text x="146.877px" y="231.341px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">whit<tspan x="295.077px " y="231.341px ">e</tspan></text>
+        <g transform="matrix(75,0,0,75,334.227,327.029)">
+        </g>
+        <text x="149.127px" y="327.029px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">weis<tspan x="299.202px " y="327.029px ">s</tspan></text>
+        <g transform="matrix(75,0,0,75,359.727,421.517)">
+        </g>
+        <text x="131.127px" y="421.517px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">bianc<tspan x="315.927px " y="421.517px ">o</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="195.808" y="6.932" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M243.098,25.239L273.784,78.388L212.412,78.388L243.098,25.239Z" style="fill:rgb(212,32,39);"/>
+                <path d="M273.772,78.388L258.429,51.814L289.115,51.814L273.772,78.388Z" style="fill:rgb(17,139,202);"/>
+                <path d="M212.412,78.388L197.069,51.814L227.755,51.814L212.412,78.388Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

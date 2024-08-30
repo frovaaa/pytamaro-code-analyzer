@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 834 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Function-show_graphic" serif:id="Card/Function/show_graphic">
+        <path d="M827.055,148.735C827.055,70.511 763.547,7.003 685.323,7.003L260.126,7.003C181.902,7.003 118.394,70.511 118.394,148.735L118.394,432.199C118.394,510.424 181.902,573.932 260.126,573.932L685.323,573.932C763.547,573.932 827.055,510.424 827.055,432.199L827.055,148.735Z" style="fill:rgb(252,234,235);stroke:rgb(212,32,39);stroke-width:12.5px;"/>
+        <g>
+            <path d="M693.881,44.377L708.52,75.022L741.171,45.559L724.48,87.739L742.659,82.832L725.423,107.332L741.162,112.757L725.081,120.399L740.727,147.228L710.978,128.828L704.601,148.735L695.156,127.451L668.355,147.58L676.506,124.614L639.567,132.044L667.218,111.463L638.079,90.484L671.312,93.358L640.583,46.234L689.934,78.571L693.881,44.377Z" style="fill:rgb(255,160,0);fill-rule:nonzero;stroke:rgb(244,67,54);stroke-width:2.77px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+            <path d="M697.91,68.645L706.727,91.482L724.175,71.788L711.061,99.273L726.966,94.495L712.226,109.143L724.573,113.2L712.743,114.947L722.161,128.292L706.856,118.514L703.335,129.9L697.91,116.878L684.371,127.192L689.934,114.559L668.678,119.198L684.343,109.698L663.91,99.873L686.543,101.981L667.957,72.823L696.496,92.12L697.91,68.645Z" style="fill:url(#_Radial1);fill-rule:nonzero;stroke:rgb(255,235,59);stroke-width:1.85px;stroke-linejoin:miter;stroke-miterlimit:10;"/>
+        </g>
+        <g id="BentArrow">
+            <rect x="0.283" y="298.735" width="89.764" height="7.087"/>
+            <path d="M118.394,302.278L90.047,311.727L90.047,292.829L118.394,302.278Z"/>
+        </g>
+        <g transform="matrix(75,0,0,75,707.062,231.412)">
+        </g>
+        <text x="233.887px" y="231.412px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">show<tspan x="411.862px 452.062px 493.387px 520.837px " y="231.412px 231.412px 231.412px 231.412px ">_gra</tspan>phic</text>
+        <g transform="matrix(75,0,0,75,588.337,327.1)">
+        </g>
+        <g transform="matrix(75,0,0,75,611.752,327.1)">
+        </g>
+        <g transform="matrix(75,0,0,75,669.862,327.1)">
+        </g>
+        <text x="271.087px" y="327.1px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">z<tspan x="303.337px " y="327.1px ">e</tspan>ig<tspan x="403.162px 442.537px 482.212px 521.212px 547.537px " y="327.1px 327.1px 327.1px 327.1px 327.1px ">e_gra</tspan>ﬁk</text>
+        <g transform="matrix(1,0,0,1,-774.442,-1085.36)">
+            <text x="953.279px" y="1506.94px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">visua<tspan x="1130.05px " y="1506.94px ">l</tspan>izz<tspan x="1237.6px " y="1506.94px ">a</tspan></text>
+            <text x="1278.4px" y="1506.94px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">_</text>
+            <g transform="matrix(75,0,0,75,1425.03,1506.95)">
+            </g>
+            <g transform="matrix(75,0,0,75,1448.44,1506.95)">
+            </g>
+            <g transform="matrix(75,0,0,75,1544.05,1506.95)">
+            </g>
+            <text x="1318.9px" y="1506.94px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">gr<tspan x="1384.23px " y="1506.94px ">a</tspan>ﬁc<tspan x="1503.25px " y="1506.94px ">a</tspan></text>
+        </g>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="425.48" y="7.003" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M472.77,25.31L503.456,78.459L442.084,78.459L472.77,25.31Z" style="fill:rgb(212,32,39);"/>
+                <path d="M503.444,78.459L488.101,51.884L518.787,51.884L503.444,78.459Z" style="fill:rgb(17,139,202);"/>
+                <path d="M442.084,78.459L426.741,51.884L457.427,51.884L442.084,78.459Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <radialGradient id="_Radial1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(24.3663,0,0,24.3663,702.492,106.505)"><stop offset="0" style="stop-color:rgb(255,253,231);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,241,118);stop-opacity:1"/></radialGradient>
+    </defs>
+</svg>

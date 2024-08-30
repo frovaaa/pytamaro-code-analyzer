@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 628 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-bottom_right" serif:id="Card/Constant/bottom_right">
+        <path d="M573.677,195.908L620.921,243.575L573.677,289.638L573.677,479.373L6.748,479.373L6.748,6.932L573.677,6.932L573.677,195.908Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,516.825,231.341)">
+        </g>
+        <text x="60.75px" y="231.341px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">bott<tspan x="205.875px " y="231.341px ">o</tspan>m_right</text>
+        <g transform="matrix(75,0,0,75,512.213,327.029)">
+        </g>
+        <text x="65.363px" y="327.029px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">unt<tspan x="178.913px " y="327.029px ">e</tspan>n_r<tspan x="329.438px " y="327.029px ">e</tspan>chts</text>
+        <g transform="matrix(75,0,0,75,516.488,421.517)">
+        </g>
+        <text x="68.588px" y="421.517px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">b<tspan x="112.388px 152.438px 186.713px 221.738px 264.038px 301.538px " y="421.517px 421.517px 421.517px 421.517px 421.517px 421.517px ">asso_d</tspan>estr<tspan x="475.688px " y="421.517px ">a</tspan></text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="243.018" y="6.932" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M290.308,25.239L320.994,78.388L259.622,78.388L290.308,25.239Z" style="fill:rgb(212,32,39);"/>
+                <path d="M320.983,78.388L305.64,51.814L336.326,51.814L320.983,78.388Z" style="fill:rgb(17,139,202);"/>
+                <path d="M259.622,78.388L244.279,51.814L274.965,51.814L259.622,78.388Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>

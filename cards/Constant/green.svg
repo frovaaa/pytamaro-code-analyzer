@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 533 486" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Card-Constant-green" serif:id="Card/Constant/green">
+        <path d="M479.323,195.162L526.567,242.829L479.323,288.892L479.323,479.05L6.882,479.05L6.882,6.609L479.323,6.609L479.323,195.162Z" style="fill:rgb(230,245,253);stroke:rgb(17,139,202);stroke-width:12.5px;"/>
+        <g transform="matrix(75,0,0,75,339.29,231.018)">
+        </g>
+        <text x="144.065px" y="231.018px" style="font-family:'FiraSans-Bold', 'Fira Sans', sans-serif;font-weight:700;font-size:75px;">gr<tspan x="213.215px " y="231.018px ">e</tspan>en</text>
+        <g transform="matrix(75,0,0,75,339.89,326.706)">
+        </g>
+        <text x="143.465px" y="326.706px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">gruen</text>
+        <g transform="matrix(75,0,0,75,340.377,421.195)">
+        </g>
+        <text x="150.477px" y="421.195px" style="font-family:'FiraSans-Regular', 'Fira Sans', sans-serif;font-size:75px;">v<tspan x="187.077px 227.952px 254.652px " y="421.195px 421.195px 421.195px ">erd</tspan>e</text>
+        <g id="PyTamaro-Logo" serif:id="PyTamaro Logo">
+            <rect x="195.808" y="6.609" width="94.488" height="94.488" style="fill:none;"/>
+            <g>
+                <path d="M243.098,24.916L273.784,78.066L212.412,78.066L243.098,24.916Z" style="fill:rgb(212,32,39);"/>
+                <path d="M273.772,78.066L258.429,51.491L289.115,51.491L273.772,78.066Z" style="fill:rgb(17,139,202);"/>
+                <path d="M212.412,78.066L197.069,51.491L227.755,51.491L212.412,78.066Z" style="fill:rgb(17,139,202);"/>
+            </g>
+        </g>
+    </g>
+</svg>
